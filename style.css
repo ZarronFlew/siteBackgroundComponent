@@ -1,0 +1,234 @@
+body {
+    position: relative;
+    background-color: black;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+svg {
+    display: none;
+    width: fit-content;
+    transition: .5s ease-in-out;
+}
+
+.svg1 {
+    height: 75px;
+    width: 45px;
+    position: absolute;
+    display: block;
+    top: 420px;
+    left: 570px;
+    transform: rotate(180deg);
+}
+
+.svg2 {
+    position: absolute;
+    display: block;
+    top: 460px;
+    left: 490px;
+}
+
+.svg3 {
+    position: absolute;
+    display: block;
+    top: 345px;
+    left: 338px;
+}
+
+.svg4 {
+    position: absolute;
+    top: 288px;
+    left: 380px;
+    display: block;
+    transform: scaleX(-1);
+}
+
+.svg5 {
+    position: absolute;
+    top: 325px;
+    left: 430px;
+    display: block;
+}
+
+.svg6 {
+    position: absolute;
+    top: 330px;
+    left: 300px;
+    display: block;
+    -webkit-transform: rotate(270deg) scaleX(-1);
+    transform: rotate(270deg) scaleX(-1);
+}
+
+.svg7 {
+    position: absolute;
+    left: 515px;
+    top: 405px;
+    display: block;
+}
+
+.svg8 {
+    position: absolute;
+    left: 490px;
+    top: 370px;
+    display: block;
+}
+
+.svg9 {
+    position: absolute;
+    left: 450px;
+    top: 380px;
+    display: block;
+}
+
+.svg10 {
+    top: 390px;
+    left: 575px;
+    position: absolute;
+    display: block;
+    transform: rotate(90deg);
+}
+
+.svg11 {
+    top: 290px;
+    left: 345px;
+    position: absolute;
+    display: block;
+}
+
+.svg12 {
+    position: absolute;
+    display: block;
+    top: 320px;
+    left: 425px;
+}
+
+.svg13 {
+    position: absolute;
+    display: block;
+    top: 360px;
+    left: 470px;
+}
+
+.svg14 {
+    position: absolute;
+    display: block;
+    top: 380px;
+    left: 390px;
+    transform: rotate(180deg);
+}
+
+.svg15 {
+    position: absolute;
+    display: block;
+    top: 420px;
+    left: 430px;
+}
+
+.svg16 {
+    position: absolute;
+    display: block;
+    top: 435px;
+    left: 395px;
+    transform: rotate(90deg);
+}
+
+.svg17 {
+    position: absolute;
+    display: block;
+    top: 415px;
+    left: 425px;
+}
+
+.svg18 {
+    position: absolute;
+    display: block;
+    top: 430px;
+    left: 345px;
+    transform: rotate(90deg);
+}
+
+.svg19 {
+    position: absolute;
+    display: block;
+    top: 340px;
+    left: 545px;
+    transform: rotate(270deg);
+}
+
+.svg20 {
+    position: absolute;
+    left: 330px;
+    top: 500px;
+    display: block;
+}
+
+.svg21 {
+    position: absolute;
+    left: 350px;
+    top: 520px;
+    display: block;
+    transform: rotate(180deg);
+    height: 76px;
+    width: 71px;
+}
+
+.svg22 {
+    position: absolute;
+    display: block;
+    top: 510px;
+    left: 430px;
+}
+
+.svg23 {
+    position: absolute;
+    display: block;
+    top: 480px;
+    left: 455px;
+}
+
+.svg24 {
+    position: absolute;
+    display: block;
+    top: 535px;
+    left: 390px;
+}
+
+.svg25 {
+    position: absolute;
+    display: block;
+    top: 555px;
+    left: 430px;
+    transform: rotate(90deg);
+}
+
+.svg26 {
+    position: absolute;
+    display: block;
+    top: 580px;
+    left: 445px;
+}
+
+.svg27 {
+    position: absolute;
+    display: block;
+    height: 76px;
+    width: 71px;
+    top: 520px;
+    left: 485px;
+    transform: scaley(-1);
+}
+
+.svg28 {
+    position: absolute;
+    display: block;
+    top: 540px;
+    left: 500px;
+}
+
+.svg29 svg {
+    position: absolute;
+    display: block;
+    top: 150px;
+    right: 500px;
+}
